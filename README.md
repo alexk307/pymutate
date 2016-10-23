@@ -1,7 +1,7 @@
 # pymutate
 Mutation Testing Using The AST
 
-```
+```python
 import ast
 from mutator import Mutator
 
